@@ -1,0 +1,61 @@
+﻿@using VhCardEntity.Concrete
+@{
+    Layout = "_AdminLayout";
+}
+
+@model Vehicle
+
+<div class="container-fluid">
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Kullanıcı ekle / güncelle </h6>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <form action="@Url.Action("VehicleAddOrUpdate","Admin")" method="post">
+                    @Html.HiddenFor(m=>m.Id)
+                    <div class="form-group row">
+                        <label class="col-sm-2 col-form-label">Plaka</label>
+                        <div class="col-sm-10">
+                            @Html.TextBoxFor(m=>m.Plate, new { @class = "form-control", placeholder = "Araç Plakası" })
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="name" class="col-sm-2 col-form-label">Tip Id</label>
+                        <div class="col-sm-10">
+                            @Html.TextBoxFor(m=>m.TypeId, new { @class = "form-control", placeholder = "Tip Id" })
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        <label for="name" class="col-sm-2 col-form-label">Model Yılı</label>
+                        <div class="col-sm-10">
+                            @Html.TextBoxFor(m=>m.ModelYear, new { @class = "form-control", placeholder = "Model Yılı" })
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        <label for="name" class="col-sm-2 col-form-label">Araç Rengi</label>
+                        <div class="col-sm-10">
+                            @Html.TextBoxFor(m=>m.Color, new { @class = "form-control", placeholder = "Araç Rengi" })
+                        </div>
+                    </div>
+
+                    <div class="form-group mb-0">
+                        <div>
+                            <a href="Cars">
+                                <input type="submit" name="submit" value="Kaydet"
+                                       class="btn btn-primary waves-effect waves-light mr-1">
+                            </a>
+                            <input type="reset" value="İptal" class="btn btn-secondary waves-effect">
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+    </div>
+
+
+</div>

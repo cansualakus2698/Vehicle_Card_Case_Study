@@ -1,0 +1,14 @@
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardEntity\bin\Debug\net6.0\VhCardEntity.deps.json
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardEntity\bin\Debug\net6.0\VhCardEntity.runtimeconfig.json
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardEntity\bin\Debug\net6.0\VhCardEntity.dll
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardEntity\bin\Debug\net6.0\VhCardEntity.pdb
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardEntity\obj\Debug\net6.0\VhCardEntity.csproj.AssemblyReference.cache
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardEntity\obj\Debug\net6.0\VhCardEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardEntity\obj\Debug\net6.0\VhCardEntity.AssemblyInfoInputs.cache
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardEntity\obj\Debug\net6.0\VhCardEntity.AssemblyInfo.cs
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardEntity\obj\Debug\net6.0\VhCardEntity.csproj.CoreCompileInputs.cache
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardEntity\obj\Debug\net6.0\VhCardEntity.dll
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardEntity\obj\Debug\net6.0\refint\VhCardEntity.dll
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardEntity\obj\Debug\net6.0\VhCardEntity.pdb
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardEntity\obj\Debug\net6.0\VhCardEntity.genruntimeconfig.cache
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardEntity\obj\Debug\net6.0\ref\VhCardEntity.dll

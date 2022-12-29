@@ -1,0 +1,62 @@
+﻿@using VhCardEntity.Concrete
+
+@{
+
+    Layout = "_AdminLayout";
+}
+
+@model List<Vehicle>
+
+<div class="container-fluid">
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <a href="~/Admin/VehicleAddOrUpdate" class="btn btn-success">Ekle</a>
+        </div>
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Araçlar</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="myTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Plaka</th>
+                            <th>Tip Id</th>
+                            <th>Model Yılı</th>
+                            <th>Renk</th>
+                            <th>İşlemler</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>@item.Plate</td>
+                                <td>@item.TypeId</td>
+                                <td>@item.ModelYear</td>
+                                <td>@item.Color</td>
+                                <td>
+                                    <a href="@Url.Action("VehicleAddOrUpdate","Admin",new {id=item.Id})">
+                                        <button class="btn btn-success"
+                                            type="button">
+                                            <i class="fas fa-edit fa-sm"></i>
+                                        </button>
+                                    </a>
+                                    <a href="@Url.Action("VehicleDelete","Admin",new {id=item.Id})">
+                                        <button class="btn btn-danger" type="button">
+                                            <i class="fas fa-trash fa-sm"></i>
+                                        </button>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,17 @@
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\bin\Debug\net6.0\VhCardBusiness.deps.json
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\bin\Debug\net6.0\VhCardBusiness.dll
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\bin\Debug\net6.0\VhCardBusiness.pdb
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\obj\Debug\net6.0\VhCardBusiness.csproj.AssemblyReference.cache
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\obj\Debug\net6.0\VhCardBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\obj\Debug\net6.0\VhCardBusiness.AssemblyInfoInputs.cache
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\obj\Debug\net6.0\VhCardBusiness.AssemblyInfo.cs
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\obj\Debug\net6.0\VhCardBusiness.csproj.CoreCompileInputs.cache
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\obj\Debug\net6.0\VhCardBusiness.dll
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\obj\Debug\net6.0\refint\VhCardBusiness.dll
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\obj\Debug\net6.0\VhCardBusiness.pdb
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\obj\Debug\net6.0\ref\VhCardBusiness.dll
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\bin\Debug\net6.0\VhCardDataAccess.dll
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\bin\Debug\net6.0\VhCardEntity.dll
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\bin\Debug\net6.0\VhCardDataAccess.pdb
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\bin\Debug\net6.0\VhCardEntity.pdb
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardBusiness\obj\Debug\net6.0\VhCardBusiness.csproj.CopyComplete

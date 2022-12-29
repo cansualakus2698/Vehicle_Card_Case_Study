@@ -1,0 +1,15 @@
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardDataAccess\bin\Debug\net6.0\VhCardDataAccess.deps.json
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardDataAccess\bin\Debug\net6.0\VhCardDataAccess.dll
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardDataAccess\bin\Debug\net6.0\VhCardDataAccess.pdb
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardDataAccess\bin\Debug\net6.0\VhCardEntity.dll
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardDataAccess\bin\Debug\net6.0\VhCardEntity.pdb
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardDataAccess\obj\Debug\net6.0\VhCardDataAccess.csproj.AssemblyReference.cache
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardDataAccess\obj\Debug\net6.0\VhCardDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardDataAccess\obj\Debug\net6.0\VhCardDataAccess.AssemblyInfoInputs.cache
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardDataAccess\obj\Debug\net6.0\VhCardDataAccess.AssemblyInfo.cs
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardDataAccess\obj\Debug\net6.0\VhCardDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardDataAccess\obj\Debug\net6.0\VhCardDataAccess.csproj.CopyComplete
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardDataAccess\obj\Debug\net6.0\VhCardDataAccess.dll
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardDataAccess\obj\Debug\net6.0\refint\VhCardDataAccess.dll
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardDataAccess\obj\Debug\net6.0\VhCardDataAccess.pdb
+C:\Users\esra.cinar\source\repos\VehicleCardStudy\VhCardDataAccess\obj\Debug\net6.0\ref\VhCardDataAccess.dll
